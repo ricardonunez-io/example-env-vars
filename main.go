@@ -5,7 +5,8 @@ import (
 	"log"
 	"net/http"
 	"os"
-	// _ "github.com/joho/godotenv/autoload"
+
+	_ "github.com/joho/godotenv/autoload"
 )
 
 func main() {
